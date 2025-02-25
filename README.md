@@ -6,11 +6,13 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-   ANS : Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It ensures that software is reliable, scalable, and meets    user requirements efficiently.
+   ANS :
+      Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It ensures that software is reliable, scalable, and meets    user requirements efficiently.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-   ANS :Ensures Reliability: Well-engineered software is less prone to bugs and failures.
+   ANS :
+      Ensures Reliability: Well-engineered software is less prone to bugs and failures.
       Enhances Efficiency: Streamlines development processes, reducing time and costs.
       Scalability: Helps build software that can handle increasing loads and complexity.
 
